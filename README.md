@@ -10,9 +10,9 @@ I recently started my journey in tech and I am thrilled to be here!
 - 🎵 Favourite music genre : Metal and Rock
 
 ###Languages and Tools
-[![My Skills](https://skillicons.dev/iconspy,c,matlab,github,anaconda,autocad)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,matlab,github,anaconda,autocad)](https://skillicons.dev)
 
 ###I am currently learning
-[![My Skills](https://skillicons.dev/iconscpp,pytorch,tensorflow,opencv)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,pytorch,tensorflow,opencv)](https://skillicons.dev)
 
 ##Connect with me here
