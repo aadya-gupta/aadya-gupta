@@ -16,3 +16,5 @@ I recently started my journey in tech and I am thrilled to be here!
 [![My Skills](https://skillicons.dev/icons?i=cpp,pytorch,tensorflow,opencv)](https://skillicons.dev)
 
 ## Connect with me here
+<p align = "left">
+<a href = "https://www.linkedin.com/in/aadya-gupta-cs/" target = "blank"><img align = "centre" src="https://github.com/user-attachments/assets/57318f21-27f9-4830-ada4-19309e5fcdfc" title = "LinkedIn"></a>
