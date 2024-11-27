@@ -18,6 +18,7 @@ I recently started my journey in tech and I am thrilled to be here!
 ## Connect with me here
 <p align = "left">
 <a href = "https://www.linkedin.com/in/aadya-gupta-cs/" target = "blank"><img align = "centre" src="https://github.com/user-attachments/assets/57318f21-27f9-4830-ada4-19309e5fcdfc" title = "LinkedIn" alt = "" height = 50></a>
-
+<a href= "aadya.gupta2005@gmail.com" target="blank"><img align = "centre" src = "https://github.com/user-attachments/assets/6c21a5ff-f22b-4fa8-b517-4dba1a87d3f8" title = "mail" alt = "" height = 50></a>
+<a href = "https://x.com/aadya_codes" target = "blank"><img align = "centre" src = "https://cdn-icons-png.flaticon.com/128/5968/5968830.png" titel = "X" alt = "" height = 50></a>
 
 
