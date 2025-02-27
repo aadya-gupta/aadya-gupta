@@ -5,9 +5,9 @@ I recently started my journey in tech and I am thrilled to be here!
 
 ### Here are some fun facts about me-
 - 🍄 My passion lies in Artifiical Intelligence
-- 📚 Currently reading : The 7 Habits of Highly Effective People
+- 📚 Currently reading : Heads You Win by Jeffrey Archer
 - 🍽️ I am absolutely in love with food <3
-- 🎵 Favourite music genre : Metal and Rock
+- 🎵 Favourite music genres : Metal and Rock
 
 ### Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=py,c,matlab,github,anaconda,autocad)](https://skillicons.dev)
